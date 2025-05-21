@@ -13,7 +13,7 @@ images/data.png
 
 ## Dataset Details
 
-The dataset includes 55 scene of shredded Electrolyzer samples with RGB cameras and HSI data cubes contains 450 bands in the VNIR and SWIR range [400 - 2500]nm:
+The dataset includes 55 scene of shredded Electrolyzer samples with RGB cameras and HSI data cubes containing 450 bands in the VNIR and SWIR range [400 - 2500]nm:
 - 55 RGB images of shredded Electrolyzers scanned with a high-resolution RGB camera (Teledyne Dalsa C4020).
 - 55 hyperspectral data cubes of those shredded Electrolyzers scanned with FENIX in the VNIR and SWIR ranges.
 - 55 segmentation ground truth masks of five classes: Mesh - Steel_black - Steel_Grey - HTEL_Anode - HTEL_Cathode
@@ -27,7 +27,7 @@ The repository includes the code for the inference pipeline, including data load
 
 ### Requirements
 
-Install the libraries listed in the Requirements.txt file to use the codes without errors. The codes require at least 1 GPU to run and handle the data.
+Install the libraries listed in the Requirements.txt file to use the code without errors. The codes require at least 1 GPU to run and handle the data.
 
 ### Usage
 
