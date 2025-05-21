@@ -18,7 +18,7 @@ The dataset includes 55 scene of shredded Electrolyzer samples with RGB cameras 
 - 55 hyperspectral data cubes of those shredded Electrolyzers scanned with FENIX in the VNIR and SWIR ranges.
 - 55 segmentation ground truth masks of five classes: Mesh - Steel_black - Steel_Grey - HTEL_Anode - HTEL_Cathode
 
-![http://url/to/img.png](https://github.com/Elias-Arbash/Electrolyzers-HSI/blob/main/images/data.png)
+<img src="https://github.com/Elias-Arbash/Electrolyzers-HSI/blob/main/images/data.png" width="25%">
 
 
 ## Code Repository
