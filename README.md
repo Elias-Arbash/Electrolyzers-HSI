@@ -7,7 +7,7 @@ Our primary focus is to enhance the non-invasive optical analysis of E-waste mat
 
 ## Research Paper
 
-This GitHub repository corresponds to the research paper titled "Electrolyzers-HSI: Close-Range Multi-Scene  Hyperspectral Imaging Benchmark Dataset." The paper introduces RGB-Hyperspectral Imaging (HSI) benchmark segmentation dataset for Electrolyzer materials. You can access the paper [here]([https://arxiv.org/on the way](https://arxiv.org/abs/2505.20507)).
+This GitHub repository corresponds to the research paper titled "Electrolyzers-HSI: Close-Range Multi-Scene  Hyperspectral Imaging Benchmark Dataset." The paper introduces RGB-Hyperspectral Imaging (HSI) benchmark segmentation dataset for Electrolyzer materials. You can access the paper [Electrolyzers-HSI](https://arxiv.org/abs/2505.20507).
 
 images/data.png
 
