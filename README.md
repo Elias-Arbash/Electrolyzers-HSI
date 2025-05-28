@@ -41,7 +41,7 @@ All comments and contributions are welcome. The repository can be forked, edited
 
 ## License
 
-The code is licensed under the Apache-2.0 license. Any further development and application using this work should be opened and shared with the community.
+The code is licensed under the a CC BY-NC-ND (Creative Commons Attribution Non-Commercial No Derivatives 4.0 International license. Any further development and application using this work should be opened and shared with the community.
 
 ## Acknowledgment 
 Appreciation is extended to the European Regional Development Fund (EFRE) and the Land of Saxony for their support
