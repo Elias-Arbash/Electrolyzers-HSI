@@ -29,7 +29,7 @@ Install the libraries listed in the Requirements.txt file to use the code withou
 
 ### Usage
 
-For detailed code instructions, please refer to the code documentation. More information about the methodology and experiments can be found in the paper [here](https://).
+For detailed code instructions, please refer to the code documentation. More information about the methodology and experiments can be found in the paper.
 
 ## Data Access
 
@@ -37,7 +37,7 @@ To utilize the dataset, download it from [this link](https://rodare.hzdr.de/reco
 
 ## Contributions
 
-All comments and contributions are welcome. The repository can be forked, edited, and pushed to different branches for enhancements. Feel free to contact me directly at e.arbash@hzdr.de or via our [website](https://www.iexplo.space/).
+All comments and contributions are welcome. The repository can be forked, edited, and pushed to different branches for enhancements. Feel free to contact me directly at e.arbash@hzdr.de or via our [HiF-Explo](https://www.iexplo.space/).
 
 ## License
 
@@ -50,10 +50,6 @@ In funding the computational equipment under the project ’CirculAIre.’
 ## Citation
 
 When using the materials of the work and the dataset, please cite them as follows:
-
-**Word:**
-
-To be provided soon !
 
 **BibTeX:**
 
