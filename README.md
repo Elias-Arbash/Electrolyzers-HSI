@@ -9,8 +9,6 @@ Our primary focus is to enhance the non-invasive optical analysis of E-waste mat
 
 This GitHub repository corresponds to the research paper titled "Electrolyzers-HSI: Close-Range Multi-Scene  Hyperspectral Imaging Benchmark Dataset." The paper introduces RGB-Hyperspectral Imaging (HSI) benchmark segmentation dataset for Electrolyzer materials. You can access the paper [Electrolyzers-HSI](https://arxiv.org/abs/2505.20507).
 
-images/data.png
-
 ## Dataset Details
 
 The dataset includes 55 scene of shredded Electrolyzer samples with RGB cameras and HSI data cubes containing 450 bands in the VNIR and SWIR range [400 - 2500]nm:
